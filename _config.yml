@@ -24,10 +24,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yphus
 repository: yphus/yphus.github.io
 show_excerpts: true
+google_analytics: UA-121876544-1
 
 # Build settings
 markdown: kramdown
-#theme: minima
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
