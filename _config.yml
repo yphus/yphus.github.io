@@ -26,6 +26,12 @@ repository: yphus/yphus.github.io
 show_excerpts: true
 google_analytics: UA-121876544-1
 
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
